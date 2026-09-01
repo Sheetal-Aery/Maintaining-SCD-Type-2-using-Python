@@ -90,4 +90,4 @@ Columns:
    
 6. Run the ETL script:
    ```bash
-   python etl_pipeline.py
+   python ETL_SCD2.ipynb
