@@ -1,0 +1,11 @@
+product_id|product_name|price
+1|HP Laptop|55000
+2|Iphone|72000
+3|Iphone12|80000
+4|Mattress|8000
+5|Cycle|35000
+6|Headphones|5700
+7|Chair|10000
+8|Charger|1200
+9|pillow|900
+10|bucket|400
